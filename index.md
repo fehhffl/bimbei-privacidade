@@ -25,4 +25,4 @@ Tomamos medidas de segurança apropriadas para proteger os dados dos usuários c
 Esta política de privacidade pode ser atualizada periodicamente. Quando houver uma alteração, notificaremos os usuários por meio do aplicativo ou de outro meio adequado.
 
 ## Contato
-Se você tiver qualquer dúvida sobre esta Política de Privacidade, entre em contato conosco pelo e-mail: [fe.forioni@gmail.com].
+Se você tiver qualquer dúvida sobre esta Política de Privacidade, entre em contato conosco pelo e-mail: fe.forioni@gmail.com.
