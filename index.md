@@ -1,6 +1,6 @@
 # Política de Privacidade
 
-## Última atualização: [Data]
+## Última atualização: 17 de Setembro de 2024
 
 A privacidade dos nossos usuários é de extrema importância para nós. Esta Política de Privacidade explica como o aplicativo Bimbei coleta, usa e compartilha informações dos usuários.
 
@@ -25,4 +25,4 @@ Tomamos medidas de segurança apropriadas para proteger os dados dos usuários c
 Esta política de privacidade pode ser atualizada periodicamente. Quando houver uma alteração, notificaremos os usuários por meio do aplicativo ou de outro meio adequado.
 
 ## Contato
-Se você tiver qualquer dúvida sobre esta Política de Privacidade, entre em contato conosco pelo e-mail: [seu-email@example.com].
+Se você tiver qualquer dúvida sobre esta Política de Privacidade, entre em contato conosco pelo e-mail: [fe.forioni@gmail.com].
